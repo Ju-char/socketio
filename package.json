@@ -1,0 +1,24 @@
+{
+  "name": "decouverte-socketio-ju-char",
+  "version": "1.0.0",
+  "description": "Du front, du front, du front.   En vanilla, avec React, avec Redux, avec React-Redux… :scream:",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Lyra-JS/decouverte-socketio-Ju-char.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Lyra-JS/decouverte-socketio-Ju-char/issues"
+  },
+  "homepage": "https://github.com/O-clock-Lyra-JS/decouverte-socketio-Ju-char#readme"
+}
